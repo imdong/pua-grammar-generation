@@ -1,5 +1,13 @@
 # 互联网黑话生成器（一款能熟练应用“赋能、抓手、闭环、沉淀、打通”等词汇的文章生成器）
 
+## 移植说明
+
+> 本代码移植自 [shadowings-zy/internet-industry-terms-generator](https://github.com/shadowings-zy/internet-industry-terms-generator)
+> 移植过程中参考了以下代码 [marsvet/uTools-plugins/utools-bullshit-generator](https://github.com/marsvet/uTools-plugins/blob/master/utools-bullshit-generator)
+> 代码已开源 [imdong/pua-grammar-generation](https://github.com/imdong/pua-grammar-generation)
+
+## 原说明
+
 你是否会因项目ppt无话可写而感到苦恼？
 你是否会因不懂互联网黑话而感到沮丧？
 你是否想要在“赋能、抓手、闭环、沉淀、打通”等词汇中找到灵感？

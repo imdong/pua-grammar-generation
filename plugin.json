@@ -2,7 +2,7 @@
 	"pluginName": "互联网黑话生成器",
 	"description": "一款能熟练应用“赋能、抓手、闭环、沉淀、打通”等词汇的文章生成器",
 	"author": "ImDong",
-	"homepage": "https://github.com/imdong/internet-industry-terms-generator",
+	"homepage": "https://www.qs5.org/?utools-internet-industry-terms-generator",
 	"version": "0.0.1",
 	"logo": "logo.jpeg",
 	"main": "index.html",
